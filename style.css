@@ -23,6 +23,7 @@ body::before {
 }
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 header::after{
